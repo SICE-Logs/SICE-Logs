@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SICE-Logs
 - 👀 I’m interested in Making animations and GenAi with python
-- 🌱 I’m currently learning python from the scratch
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data science using Machine Learning in Python
+- 💞️ I’m looking to collaborate on Machine Learning with Python
 - 📫 How to reach me through gmail
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: You gotta train before you overtrain
