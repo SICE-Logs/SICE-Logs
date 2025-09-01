@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making animations and GenAi with python
 - 🌱 I’m currently learning Data science using Machine Learning in Python
 - 💞️ I’m looking to collaborate on Machine Learning with Python
-- 📫 How to reach me through gmail
+- 📫 How to reach me through gmail: logajitselvakumar@gmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: You gotta train before you overtrain
 
